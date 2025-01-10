@@ -1,5 +1,4 @@
 
-
 export default function InputCheck({text, classes, btn1, btn2}) {
     return (
       <div>
