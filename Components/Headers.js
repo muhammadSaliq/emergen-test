@@ -9,8 +9,8 @@ export default function Headers() {
             <Image
         src="/logo.png" // Replace with your actual image path in the `public` folder
         alt="Hero Background"
-        width={50}
-        height={50}
+        width={150}
+        height={100}
         quality={100}
         className="w-[150px] h-[100px]" // Ensures the image is behind the text
       />
