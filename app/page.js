@@ -5,6 +5,8 @@ import FeaturesSection from "@/Components/HomeSections/FeaturesSection";
 import FooterSection from "@/Components/HomeSections/FooterSection";
 import HeaterSection from "@/Components/HomeSections/HeaterSection";
 import Image from "next/image";
+import "./globals.css";
+
 
 export default function Home() {
   return (
